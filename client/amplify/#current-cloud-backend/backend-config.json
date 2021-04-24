@@ -1,0 +1,12 @@
+{
+  "api": {},
+  "auth": {
+    "budgetappcce81325": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "function": {}
+}
